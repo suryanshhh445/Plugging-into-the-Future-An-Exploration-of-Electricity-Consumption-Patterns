@@ -7,6 +7,13 @@ This project was created to demonstrate a complete data visualization workflow. 
 
 The goal is to provide a clear, end-to-end example of how to prepare data for analysis and present it professionally on the web.
 
+### Live Visualizations
+
+*   **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/Plugging-into-the-Future-An-Exploration-of-Electricity-Consumption-Patterns/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+*   **Data Story:** [View on Tableau Public](https://public.tableau.com/views/Plugging-into-the-Future-An-Exploration-of-Electricity-Consumption-Patterns/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### Built With
 
 *   [Python](https://www.python.org/) - Data processing and backend
